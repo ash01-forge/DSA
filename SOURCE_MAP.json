@@ -1,0 +1,1851 @@
+{
+  "files": [
+    {
+      "file": "DSA-I/Lab/C/0112430108_Assignment1/p1.c",
+      "origin": "DSA-I/Lab/C/0112430108_Assignment1/p1.c",
+      "sha256": "cd0da2884f1a5d3f427b896c12b4b0e93c90426e7725cb626a421754669b8381",
+      "bytes": 736
+    },
+    {
+      "file": "DSA-I/Lab/C/0112430108_Assignment1/Problem1.c",
+      "origin": "DSA-I/Lab/C/0112430108_Assignment1/Problem1.c",
+      "sha256": "5b279c61570b53f58a5018f1ad7a4c26d4ba5cbf48b13a65cd42e5ac05d59a88",
+      "bytes": 1392
+    },
+    {
+      "file": "DSA-I/Lab/C/0112430108_Assignment1/Problem2.c",
+      "origin": "DSA-I/Lab/C/0112430108_Assignment1/Problem2.c",
+      "sha256": "54e867757b1958afd6038bfcdb6e24e7b574310dcaf38e671594d3e80074b26e",
+      "bytes": 1238
+    },
+    {
+      "file": "DSA-I/Lab/C/0112430108_Assignment1/Problem3.c",
+      "origin": "DSA-I/Lab/C/0112430108_Assignment1/Problem3.c",
+      "sha256": "9469122258716722ff3f0ce053a6366ab439bf1899c0c0cbc3d2424e8363f050",
+      "bytes": 759
+    },
+    {
+      "file": "DSA-I/Lab/C/0112430108_Assignment1/tempCodeRunnerFile.c",
+      "origin": "DSA-I/Lab/C/0112430108_Assignment1/tempCodeRunnerFile.c",
+      "sha256": "eb5b82e9c96fe983dafa067b308941cbc7636aabdf4be19aea127d38de0d8213",
+      "bytes": 770
+    },
+    {
+      "file": "DSA-I/Lab/C/0112430108_Assignment1.zip",
+      "origin": "DSA-I/Lab/C/0112430108_Assignment1.zip",
+      "sha256": "3cf1a7346a05e67b8ed2407a26802c12a63cf61e44bd87b523ae18338b111863",
+      "bytes": 71937
+    },
+    {
+      "file": "DSA-I/Lab/C/Assignment2/pb1.c",
+      "origin": "DSA-I/Lab/C/Assignment2/pb1.c",
+      "sha256": "7496ca1d5dea02fd68114617b480ee30db3b10a49832ba17a62de2e1459cc834",
+      "bytes": 1164
+    },
+    {
+      "file": "DSA-I/Lab/C/Assignment2/pb2.c",
+      "origin": "DSA-I/Lab/C/Assignment2/pb2.c",
+      "sha256": "12251d8f21a2eda33a9c9f05975e4ec39511daf3553fd203e0c4f6812ab63627",
+      "bytes": 1326
+    },
+    {
+      "file": "DSA-I/Lab/C/Assignment2/pb3.c",
+      "origin": "DSA-I/Lab/C/Assignment2/pb3.c",
+      "sha256": "ecd77e54b6d625c45889dccccf2062ce7f9d4bf8c7aee249dd22b31811af2685",
+      "bytes": 1092
+    },
+    {
+      "file": "DSA-I/Lab/C/Assignment2.zip",
+      "origin": "DSA-I/Lab/C/Assignment2.zip",
+      "sha256": "612c13a2f2b14e5cd2efc50a2f0ae2625479947b0aed6d916ec5eaf374e5b6e2",
+      "bytes": 53195
+    },
+    {
+      "file": "DSA-I/Lab/C/firstprogram.c",
+      "origin": "DSA-I/Lab/C/firstprogram.c",
+      "sha256": "6f99c14397298061432241cc6af8a7e11f1101b4f7acba339d5448c818f0f829",
+      "bytes": 73
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb1.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb1.c",
+      "sha256": "586964ccca083824a7a31cc880620e619116848df16ce417767bba5d1a30a30a",
+      "bytes": 875
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb2.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb2.c",
+      "sha256": "1de3d173d13a955cae431786cf5296716d1cdade1f8c7ae536ccb3d1d8993a92",
+      "bytes": 959
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb3.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb3.c",
+      "sha256": "a404245799f407ecd0836edab8b082abf9bfff54e5b1847b7b05c26f6ecf403e",
+      "bytes": 1049
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb4.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb4.c",
+      "sha256": "12251d8f21a2eda33a9c9f05975e4ec39511daf3553fd203e0c4f6812ab63627",
+      "bytes": 1326
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb5.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb5.c",
+      "sha256": "7496ca1d5dea02fd68114617b480ee30db3b10a49832ba17a62de2e1459cc834",
+      "bytes": 1164
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb6.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb6.c",
+      "sha256": "21cf172904764a12ead17c84077299faefd23151adba41eebe42c1c927f13fb9",
+      "bytes": 984
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/pb7.c",
+      "origin": "DSA-I/Lab/C/Linked_List/pb7.c",
+      "sha256": "4c369b2bc0d2a567ff23f24c98759bc4d1703c542ff4f5ed74b471cda74a424c",
+      "bytes": 1047
+    },
+    {
+      "file": "DSA-I/Lab/C/Linked_List/tempCodeRunnerFile.c",
+      "origin": "DSA-I/Lab/C/Linked_List/tempCodeRunnerFile.c",
+      "sha256": "4ad7b78c9528b52678e2fc1c5148c8c24acdde3bec12e7e6519b0da7dc527ed8",
+      "bytes": 974
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P10.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P10.c",
+      "sha256": "caf8b17858d46705b01eb256988c955e8858d890165db7496b3afd25bdf0ca0a",
+      "bytes": 1287
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/p2.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/p2.c",
+      "sha256": "3fc6d09036a9f3a69ff77bbd3efebcae29b99d41b653b1436f921507ec731a93",
+      "bytes": 922
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/p3.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/p3.c",
+      "sha256": "be1981de6565c585fba6910fa1fb13811db57a766e9f4e793c537843a1b28503",
+      "bytes": 978
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P4_Bubble.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P4_Bubble.c",
+      "sha256": "a699421a90268ea96c29d6bb8be944287ad22efdd25c48fbc402a40d80697845",
+      "bytes": 853
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P4_Selection.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P4_Selection.c",
+      "sha256": "e56104978d94ed16949e085fd89e054bf98c904de6c331d6b26eb0dbd79d976e",
+      "bytes": 874
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P5.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P5.c",
+      "sha256": "7182401da6ecf0cbcc8c870e4eaf4b27d8c4f6f62f34036897b57d1635760416",
+      "bytes": 714
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P6.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P6.c",
+      "sha256": "e1b874adf8ca263d6eff3bf6491e8be976e9db5f7686ef2277624f01400c2fc0",
+      "bytes": 1429
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P7.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P7.c",
+      "sha256": "fc1dc461e5dcfa729af3653c454faf7339ca23fce03a73d5bb9dca7aa7da1c18",
+      "bytes": 1215
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P8.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P8.c",
+      "sha256": "267225ee62721858301e948d4028ddd2a9af170b82b3fa203020e71db0ee4ed8",
+      "bytes": 770
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/P9.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/P9.c",
+      "sha256": "541d361673212e8d24f040f88f19f0f9cddeb2e64d65a50e6c09d95ca700b232",
+      "bytes": 1047
+    },
+    {
+      "file": "DSA-I/Lab/C/Practice_Prob_Sorting/tempCodeRunnerFile.c",
+      "origin": "DSA-I/Lab/C/Practice_Prob_Sorting/tempCodeRunnerFile.c",
+      "sha256": "caf8b17858d46705b01eb256988c955e8858d890165db7496b3afd25bdf0ca0a",
+      "bytes": 1287
+    },
+    {
+      "file": "DSA-I/Lab/C/Searching_Codes/Basic_Searchin.c",
+      "origin": "DSA-I/Lab/C/Searching_Codes/Basic_Searchin.c",
+      "sha256": "141ab4a98b98ae802d134da0b1392691a2f4ec0360bc6bb48a72485f51f2966a",
+      "bytes": 897
+    },
+    {
+      "file": "DSA-I/Lab/C/Selection_Sort_Problems/4.c",
+      "origin": "DSA-I/Lab/C/Selection_Sort_Problems/4.c",
+      "sha256": "642452308f75579c9f92fcd85196f14b5b9c42f8455755429da2efdc5179bba0",
+      "bytes": 891
+    },
+    {
+      "file": "DSA-I/Lab/C/Selection_Sort_Problems/7.c",
+      "origin": "DSA-I/Lab/C/Selection_Sort_Problems/7.c",
+      "sha256": "964a21fc69445a526b3064b8a1c08724fd66f5fdda59a6ebb1515dd0c98ceaa5",
+      "bytes": 830
+    },
+    {
+      "file": "DSA-I/Lab/C++/Binary Tree/Basic_insert_inorder.cpp",
+      "origin": "DSA-I/Lab/C++/Binary Tree/Basic_insert_inorder.cpp",
+      "sha256": "f462e46dc95c1bbe8d1bd48c6f83b8ea702dd58192c2cba9d4266ca2fa0bfce0",
+      "bytes": 877
+    },
+    {
+      "file": "DSA-I/Lab/C++/Binary Tree/Basic_insert_postorder.cpp",
+      "origin": "DSA-I/Lab/C++/Binary Tree/Basic_insert_postorder.cpp",
+      "sha256": "c092e5a8589c0899902643f6f791a69c60dca94729bb0777b76541cdde8c556c",
+      "bytes": 889
+    },
+    {
+      "file": "DSA-I/Lab/C++/Binary Tree/Basic_insert_preorder.cpp",
+      "origin": "DSA-I/Lab/C++/Binary Tree/Basic_insert_preorder.cpp",
+      "sha256": "fce98259d40bbc6c0339828842963bca154d69fcc5e0e1f790eb3e8158c681d0",
+      "bytes": 882
+    },
+    {
+      "file": "DSA-I/Lab/C++/Binary Tree/Basic_Search.cpp",
+      "origin": "DSA-I/Lab/C++/Binary Tree/Basic_Search.cpp",
+      "sha256": "e2b443d2f85b3ae262d8c5fa65f140bb65a4190d6f04e67cb95217feea69228b",
+      "bytes": 934
+    },
+    {
+      "file": "DSA-I/Lab/C++/firstprogram.cpp",
+      "origin": "DSA-I/Lab/C++/firstprogram.cpp",
+      "sha256": "169d2d71cfaa2e770bcde35574f76494517b241bc65d022b831beb6cd14ab672",
+      "bytes": 102
+    },
+    {
+      "file": "DSA-I/Lab/C++/Queue/Circular_Queue.cpp",
+      "origin": "DSA-I/Lab/C++/Queue/Circular_Queue.cpp",
+      "sha256": "87c9488278fe2d6ad8fda69157c69f7fb30084977af829ca0efcedde5a93cdb9",
+      "bytes": 1228
+    },
+    {
+      "file": "DSA-I/Lab/C++/Queue/Queue_LL.cpp",
+      "origin": "DSA-I/Lab/C++/Queue/Queue_LL.cpp",
+      "sha256": "5f4ffedb05277a3df0d647d27ea40aa86a2c14bb2d153b4b5201fdf61ff8787c",
+      "bytes": 1251
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Array.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Array.cpp",
+      "sha256": "d7eef2e46c1368550f564a9678ec1e970d18751a8bcdd8504ba74af985f9dc9e",
+      "bytes": 580
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Middle_Element.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Middle_Element.cpp",
+      "sha256": "f148b254c314d5c764420fd97089c8e5a80809cd67a64aa8807003e6a777e89b",
+      "bytes": 380
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Next_Greater.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Next_Greater.cpp",
+      "sha256": "714c66a614e3dd3559e78300188862cb2f71cd27b9c7add9ed640b98ec1ed2b1",
+      "bytes": 584
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Palindrome.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Palindrome.cpp",
+      "sha256": "1a84664ea97fa11fb3f6dc09ac57430bb40dfec47b0bf86b581800ba3abd3d32",
+      "bytes": 530
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Parenthesis.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Parenthesis.cpp",
+      "sha256": "c3b3e9971a1f3d40a6d221a9b01959b1664b87c293d2a4e05e05bf791b727927",
+      "bytes": 1168
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Pb1.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Pb1.cpp",
+      "sha256": "5b968acb934b5b38ce70734f7b377b51eeb97e28902c4668c92823e7f2142c34",
+      "bytes": 556
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Pb4.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Pb4.cpp",
+      "sha256": "6707aee389be6b4845c9a7daca8123a28f53df8b63221c211eb0376f592cdc9d",
+      "bytes": 1178
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Stack_LL.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Stack_LL.cpp",
+      "sha256": "67c306d6f726bf6a4db183e04fe767114a53b8943e3b89027c98c9d069f8aaae",
+      "bytes": 557
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Stack_Sort.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Stack_Sort.cpp",
+      "sha256": "6394830399104470c36a98d36634812b6e7a74d7f8bca1b23ac7f775fcaf0c48",
+      "bytes": 59
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Stack_Using_Two_Queue.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Stack_Using_Two_Queue.cpp",
+      "sha256": "47c44fc5c80723696ed9a40730a2b9de5a079a53ba77e85cf413eee3b2d67fd0",
+      "bytes": 1539
+    },
+    {
+      "file": "DSA-I/Lab/C++/Stack/Stack_Vector.cpp",
+      "origin": "DSA-I/Lab/C++/Stack/Stack_Vector.cpp",
+      "sha256": "2c4fe347e81a3b33cb9067acd0a2c24137697d15abae14f9ec70a3b450f701db",
+      "bytes": 560
+    },
+    {
+      "file": "DSA-I/Lab/DSA_1_ProblemSet_Stack_Queue.pdf",
+      "origin": "DSA-I/Lab/DSA_1_ProblemSet_Stack_Queue.pdf",
+      "sha256": "135b13017bc59135c46b6c3990d0b4259c6667615ee15ed9028802cad5737544",
+      "bytes": 524759
+    },
+    {
+      "file": "DSA-I/Theory/DSA 1 Final Fall 25.pdf",
+      "origin": "DSA-I/Theory/DSA 1 Final Fall 25.pdf",
+      "sha256": "9c1499babe4c25ef47ac441f91169cd8d44767f5c92a9bcf9b1ce26f06b53a35",
+      "bytes": 185967
+    },
+    {
+      "file": "DSA-I/Theory/DSA 1 Mid Fall 25.pdf",
+      "origin": "DSA-I/Theory/DSA 1 Mid Fall 25.pdf",
+      "sha256": "d494f29e91f3f3f0e8f038a0a3341f9fc01aa16200c1bd61894163624257d3b0",
+      "bytes": 126626
+    },
+    {
+      "file": "DSA-I/Theory/DSA_1_ProblemSet_Stack_Queue.pdf",
+      "origin": "DSA-I/Theory/DSA_1_ProblemSet_Stack_Queue.pdf",
+      "sha256": "135b13017bc59135c46b6c3990d0b4259c6667615ee15ed9028802cad5737544",
+      "bytes": 524759
+    },
+    {
+      "file": "DSA-II/Lab/0112430108.zip",
+      "origin": "DSA-II/Lab/0112430108.zip",
+      "sha256": "3196aed2c2511c34c7c32f223f9ef948ee1ff649e731a0e43bc2741aa899e233",
+      "bytes": 261110
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment 3/q1_a.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment 3/q1_a.cpp",
+      "sha256": "c41a26618e0d7f16498a50b53279ba116a58a16e91dea3ec37059cc961aee73b",
+      "bytes": 1755
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment 3/q1_b.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment 3/q1_b.cpp",
+      "sha256": "5bef9cfc95e45c2d5701a3befb9a82136c95015ac302fccc2754cb9ac3332aa5",
+      "bytes": 1869
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment 3/q1_c.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment 3/q1_c.cpp",
+      "sha256": "ea455829e8deb70d2765b9e8b9113e6af2cdc26d8826cbe7d90febffbce0a0e7",
+      "bytes": 1683
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment 3/q2.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment 3/q2.cpp",
+      "sha256": "4a02726daf67074f1a3ebef4e48bd4bee23100b870dc3ca46efb81e47b070e2d",
+      "bytes": 2850
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment 3.zip",
+      "origin": "DSA-II/Lab/0112430108_Assignment 3.zip",
+      "sha256": "0e2b6f27e8eda9b7f54b10a7b18b997c15dc43314d9c01e4136902b81f417e30",
+      "bytes": 3608
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment3.zip",
+      "origin": "DSA-II/Lab/0112430108_Assignment3.zip",
+      "sha256": "afa232bc38911afaf6f41ca7c49222a6443d85d6e2d44c046c203c1aca52593e",
+      "bytes": 3264
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_1/Problem1.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment_1/Problem1.cpp",
+      "sha256": "34bbed421702b5e27341681ec319593c62187a52fb7febe2b4cef3f1efb41568",
+      "bytes": 2260
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_1/Problem2.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment_1/Problem2.cpp",
+      "sha256": "02dcb822361215322143e9e2d519d7810256b8c8b5aef5588c65ae9ed9ab9832",
+      "bytes": 1658
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_1.zip",
+      "origin": "DSA-II/Lab/0112430108_Assignment_1.zip",
+      "sha256": "c309ef2e5a7ea0f1755c281a8173e3b217f085b10209204ba00deb79917df61a",
+      "bytes": 48044
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_2/P1_Part_A.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment_2/P1_Part_A.cpp",
+      "sha256": "3ed7b32f2ccfb1f54d49ef486f1a22a8600b7760c5365238a083abca78aa188d",
+      "bytes": 1778
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_2/P1_Part_B.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment_2/P1_Part_B.cpp",
+      "sha256": "5c39caf189972bb1741d06872a18131e9e6c16b76ffe801932e626203c159464",
+      "bytes": 2057
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_2/P2.cpp",
+      "origin": "DSA-II/Lab/0112430108_Assignment_2/P2.cpp",
+      "sha256": "4e5277a0fc695d0d48a6a897c0a5d4eb93d71f76692b18a48fbb61c082dd2821",
+      "bytes": 1669
+    },
+    {
+      "file": "DSA-II/Lab/0112430108_Assignment_2.zip",
+      "origin": "DSA-II/Lab/0112430108_Assignment_2.zip",
+      "sha256": "cf58327c3ea3b222ad1b99f50a6969074e902f3bf49476791431f55866c70a54",
+      "bytes": 2659
+    },
+    {
+      "file": "DSA-II/Lab/Assignment-1.pdf",
+      "origin": "DSA-II/Lab/Assignment-1.pdf",
+      "sha256": "8bfc0faa7197954f2c92aadc6adf2beacf6e0c51af896ba3b8d92a78fccba0df",
+      "bytes": 95650
+    },
+    {
+      "file": "DSA-II/Lab/Assignment-2.pdf",
+      "origin": "DSA-II/Lab/Assignment-2.pdf",
+      "sha256": "ed8616e4c7b947eb2f696e92cbbb22e3dfa7d3e6f330558d9b7c1472989032d9",
+      "bytes": 132491
+    },
+    {
+      "file": "DSA-II/Lab/Divide and Conquer.pdf",
+      "origin": "DSA-II/Lab/Divide and Conquer.pdf",
+      "sha256": "c9470ae6aad5b87ec4a9d1529f64fc4ca77ee82c24f4647a6a4413998c511374",
+      "bytes": 71806
+    },
+    {
+      "file": "DSA-II/Lab/Divide_and_Conquer_Codes_Chat_Version.pdf",
+      "origin": "DSA-II/Lab/Divide_and_Conquer_Codes_Chat_Version.pdf",
+      "sha256": "d3073958c8cb38ebc378166e0b88b06790d43a9401f2927dba3960ec15a094f1",
+      "bytes": 152325
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/00_READ_ME_FIRST.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/00_READ_ME_FIRST.cpp",
+      "sha256": "cff6284582575bc8347fe347c6fc685e2b2a6ee42e0e49c6cbd4517f07c5928e",
+      "bytes": 760
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/01_vector_sum.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/01_vector_sum.cpp",
+      "sha256": "9e420b91bbdf02514101600e1984be79986eed9983aae2eef7edc510d91e6964",
+      "bytes": 381
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/02_string_basics.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/02_string_basics.cpp",
+      "sha256": "35a5ebbf1ad6c9b60c2936a5909cf837cbad5cdd50e5f67753a883892330ecef",
+      "bytes": 293
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/03_team_ranking_custom_sort.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/03_team_ranking_custom_sort.cpp",
+      "sha256": "b0f8f0585cd1c6d6e425c9f21cc3aa9bdfc14550f05430f5426d70da31f94620",
+      "bytes": 811
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/04_binary_search_functions.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/04_binary_search_functions.cpp",
+      "sha256": "923c549ba4300ab7c91c163929e6d5c91964a5cb7e5fb027a1cf5ffedd03a1d3",
+      "bytes": 858
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/05_second_maximum_distinct.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/05_second_maximum_distinct.cpp",
+      "sha256": "6f1365542f7e6b99ebd24db18fa8d3783469fbcb9b1ae81d3ffb8ee0211f2cb6",
+      "bytes": 712
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/06_stack_queue_deque.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/06_stack_queue_deque.cpp",
+      "sha256": "ea93f7027a638a91361dacec63615400c22b34ad9271df4f9eb3813f5643f4cf",
+      "bytes": 632
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/07_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/01_STL/07_exam_variations_main_changes.cpp",
+      "sha256": "cbb1c3ff45b6e5400d5fe766f07df0cdd77852fa48298b49436840729c161c55",
+      "bytes": 921
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/01_merge_sort_ascending.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/01_merge_sort_ascending.cpp",
+      "sha256": "dd96c158b5690fe6d119ac5fc2475d5d82a0ff870191657833e1e7c150bcc238",
+      "bytes": 1362
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/02_merge_sort_descending.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/02_merge_sort_descending.cpp",
+      "sha256": "570de9047b5c802e7b7a420acfe1f45b8efcad5793cbf35fd799a7a3d70032aa",
+      "bytes": 1413
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/03_three_way_merge_sort.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/03_three_way_merge_sort.cpp",
+      "sha256": "b1a5314d4ccd7c4751ec76bb49a48bff9c4b2ac776a758c26679dff4a8b0f8c1",
+      "bytes": 1895
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/04_sum_all_even_numbers.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/04_sum_all_even_numbers.cpp",
+      "sha256": "f8307e85ef7755742e550eb1606bb7ab6420eb100f3689af66292d3c7986c29d",
+      "bytes": 666
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/05_second_maximum.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/05_second_maximum.cpp",
+      "sha256": "6c3efbde20a0a379e0c6c33c7c19c7f7b670dc585f590f118d9aec89c5ea6a83",
+      "bytes": 1339
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/06_second_minimum.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/06_second_minimum.cpp",
+      "sha256": "abf0b97e46ea013a2b782f02817a12b4d3f36fad0b73525e9bb151bf2560cc4f",
+      "bytes": 1273
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/07_fast_power.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/07_fast_power.cpp",
+      "sha256": "68680d31e33d773ce5efae85586aa17776ae5147e477a7a6c9b433f9c9a20914",
+      "bytes": 486
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/08_count_multiples_3_or_5.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/08_count_multiples_3_or_5.cpp",
+      "sha256": "a3cceb21e788853a9f198e475cb1209d7c0161359b952785dfc06cd3219d1ebe",
+      "bytes": 723
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/09_maximum_sum_subarray.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/09_maximum_sum_subarray.cpp",
+      "sha256": "ee2e6acab35c98c83e99cd6dd143598571064ca3ca4f1e591ebdd6c4960bb1e0",
+      "bytes": 1168
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/10_minimum_sum_subarray.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/10_minimum_sum_subarray.cpp",
+      "sha256": "b57b29a3a7ca2f5d0f2d0e099f17d9e1af4ac2e823096ad545b345ab566676b5",
+      "bytes": 1101
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/11_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/11_exam_variations_main_changes.cpp",
+      "sha256": "f48d9e766798203d5032e0de9debf48572e2441680ce763316f7e6f243665008",
+      "bytes": 848
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/01_music_festival.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/01_music_festival.cpp",
+      "sha256": "b5559d5ec412e25ef5a9962234424f978630bfabdeea70bbc8420a6d154a048e",
+      "bytes": 962
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/02_telescope_scheduler.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/02_telescope_scheduler.cpp",
+      "sha256": "26264573449a7801f8d065b92e3573451258a07c8c699c72040f79fc6441a8ff",
+      "bytes": 818
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/03_mandatory_gap_variation.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/03_mandatory_gap_variation.cpp",
+      "sha256": "568decef8e199d2de6055e030db6aaf7ca391d4afeb159f14b001caad4c00293",
+      "bytes": 917
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/04_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/04_exam_variations_main_changes.cpp",
+      "sha256": "a13ae56c34841a137d68ea79a5304ad3edf5da4b18d3ae37c0501f574982cceb",
+      "bytes": 635
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/01_master_chefs_pantry.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/01_master_chefs_pantry.cpp",
+      "sha256": "2ff91d87eaf54f69a438b0d86350e2299e224750c397f7341aa0da289360cc41",
+      "bytes": 1298
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/02_disaster_relief_airdrop.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/02_disaster_relief_airdrop.cpp",
+      "sha256": "e1783c338c6ce6da94103d22c7c53fc3d3d73a0f94e7b38c01f26ae7f5377148",
+      "bytes": 1253
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/03_unlimited_full_max_k_partial.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/03_unlimited_full_max_k_partial.cpp",
+      "sha256": "eb49eeee95e8be1d233b98f34e0b49eb80d2a8895afe0e5552779b3aec63cfd9",
+      "bytes": 1445
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/04_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/04_exam_variations_main_changes.cpp",
+      "sha256": "eb416c5b47006bb31d7ada613db5f6e2dd19ab5708fd77abb28c64abdf84bf94",
+      "bytes": 643
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/01_mars_rover_payload.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/01_mars_rover_payload.cpp",
+      "sha256": "247a34b31df7f4423f69814f2f76863c66924d693663bf8c4ee7f273487d94e0",
+      "bytes": 1240
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/02_sunday_binge_watcher.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/02_sunday_binge_watcher.cpp",
+      "sha256": "156bce3d671ae3133c807c9570f5c1c534fad114acc9df66e6b4149eb5190d7f",
+      "bytes": 1282
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/03_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/03_exam_variations_main_changes.cpp",
+      "sha256": "db06e4ac387f0c5fdf48921826a2f2db825174c351a90a46c73f4ce073be3415",
+      "bytes": 856
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/01_postage_stamp_dilemma.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/01_postage_stamp_dilemma.cpp",
+      "sha256": "967e6103b9963ac1ef2c222cfce6cc4246211ce468ca7a0b0889c8498a54d7d5",
+      "bytes": 1063
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/02_arcade_token_master.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/02_arcade_token_master.cpp",
+      "sha256": "22792d09f8f2f0d3f38a64314a7e10b5c09ee2e5294dcd1149701c2a51ade9d7",
+      "bytes": 930
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/03_total_ordered_ways_variation.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/03_total_ordered_ways_variation.cpp",
+      "sha256": "738ab1a2e8db8691b693eb201bb328bb56fea03d42d1f2e1af5a21f6c81cd76f",
+      "bytes": 865
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/04_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/04_DP/Coin_Change/04_exam_variations_main_changes.cpp",
+      "sha256": "37d86756c0559a858c082b4fefb8172670919c738496bb294b6e2cc5ee1d9bd9",
+      "bytes": 6463
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/Dijkstra/Dijkstra.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/Dijkstra/Dijkstra.cpp",
+      "sha256": "11e4c02939aaa135fd25f44e125e701354d94698d12d8edb59019803f66c3482",
+      "bytes": 2303
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/MST/krushkal.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/MST/krushkal.cpp",
+      "sha256": "9efe2de9f139b50ca879d864dd72cabd14ac33d16b03882d398951e3e37bc0a3",
+      "bytes": 2048
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes/MST/Prims.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes/MST/Prims.cpp",
+      "sha256": "d04d3d5d95a9964e68ad5e28853707b6e4d771d07a9db592ee512c1f3819ea6d",
+      "bytes": 1847
+    },
+    {
+      "file": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip",
+      "sha256": "030e38f5fcbe2ecba20f9cdca500c2229f0588626de0282bc4b50365c59a0486",
+      "bytes": 21952
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/01_faculty_bellman_ford.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/01_faculty_bellman_ford.cpp",
+      "sha256": "92301fb9b7fd27ccdafe7ce873e7a219e18ea75708926e47b7d2e0da0958a881",
+      "bytes": 527
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/02_banking_network.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/02_banking_network.cpp",
+      "sha256": "a520bf86e8d2517bead2f02b31097bc0edfbafe39f8f665f53ef2fe46774496a",
+      "bytes": 564
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/03_electric_vehicle.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/03_electric_vehicle.cpp",
+      "sha256": "908a2ca0e2111d2a04f42545d896170f18d2e5b44ebfcbd19701ea52466dc65c",
+      "bytes": 521
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/04_game_reward.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/04_game_reward.cpp",
+      "sha256": "6450bccd4d919f2638b5609d08a34d10d25583f3f3cd4b431f75e460716b503e",
+      "bytes": 688
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/05_variation_destination_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/05_variation_destination_path.cpp",
+      "sha256": "6f4af18eed1e5d23d091b9ab617487cce35df23bead24e9f82b66984ab6c03b0",
+      "bytes": 995
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/bellman_common.h",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Bellman_Ford/bellman_common.h",
+      "sha256": "f4abf65721be74fe2640b8ae948a326b574478b19f4dc6b8877aee93cfd5c4b4",
+      "bytes": 1430
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/CHECKS.txt",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/CHECKS.txt",
+      "sha256": "de00e7628d09988c32bd1a299a67dd5383d82e176c35a8652bf217f2930ec675",
+      "bytes": 579
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/01_faculty_dijkstra.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/01_faculty_dijkstra.cpp",
+      "sha256": "f09890d2db54b6cdff64ac99557ce06b816856e8a0974eeaba697882b1dd2bac",
+      "bytes": 369
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/02_pizza_delivery.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/02_pizza_delivery.cpp",
+      "sha256": "85caf34143e50c796cfcdcd738f821727bdab40129df1ba202a4e2222c1ecef1",
+      "bytes": 853
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/03_tourist_itinerary.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/03_tourist_itinerary.cpp",
+      "sha256": "b4e8b3c7c90c51983145de7c1b00149942cba033d628753917ade378eadaa7cc",
+      "bytes": 502
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/04_ct_wildfire.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/04_ct_wildfire.cpp",
+      "sha256": "28fb18d088a4b7cc4307d6fbc208155e19d4b874ee1c0261ffff32282b5a1396",
+      "bytes": 777
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/05_ct_cold_storage.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/05_ct_cold_storage.cpp",
+      "sha256": "bf8babbe6768bb003db6f2199dcd6074642987f521c017e8e77b177006a778f9",
+      "bytes": 781
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/06_variation_directed_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/06_variation_directed_path.cpp",
+      "sha256": "0db2cd013d36c912b466ff5823f888e531d7897f6fd043c3dc20916b56619a7a",
+      "bytes": 514
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/07_variation_node_entry_fee.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/07_variation_node_entry_fee.cpp",
+      "sha256": "9c4ce58ca271ef91fdfb70b399c5cd19594d463b27354fc3fc6d19f488c602c9",
+      "bytes": 927
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/dijkstra_common.h",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Dijkstra/dijkstra_common.h",
+      "sha256": "2ccfcec5608dca72d1471542f29b59763f5a54262b35b2d2ee383e030d976e16",
+      "bytes": 1869
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/01_faculty_kruskal.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/01_faculty_kruskal.cpp",
+      "sha256": "78a24f8b73192be8eecc18309073b12f2bd2c68451fc06fbb085e4f4437e906a",
+      "bytes": 636
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/02_fiber_network.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/02_fiber_network.cpp",
+      "sha256": "4102c1761689bab8d403f5c3897beb65472f787f26e2ee425f3c180e01fc730b",
+      "bytes": 901
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/03_budget_towers.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/03_budget_towers.cpp",
+      "sha256": "b96c742e85422777036f9a0004f6eb19492588fdf7f652c03cf69c283cc648d4",
+      "bytes": 991
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/04_corporate_mergers.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/04_corporate_mergers.cpp",
+      "sha256": "36d7a5571a17a2d08a0d1b664145e40c2be0bdffd03dc72247d7c1f5ffc96618",
+      "bytes": 526
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/05_disaster_relief.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/05_disaster_relief.cpp",
+      "sha256": "9b26b3c840ab19312c835928273d722587b5319ff78e6ec41066a4309356c933",
+      "bytes": 686
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/06_maximum_edge_in_mst.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/06_maximum_edge_in_mst.cpp",
+      "sha256": "5687be2111b374b2b163b304fa15f79011a58383fc47f1c6d2eac45b4ff506b9",
+      "bytes": 558
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/07_ct_metro_fiber.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/07_ct_metro_fiber.cpp",
+      "sha256": "a660b0b94e1d18c3f4d4fc0380280a4a9b7e2459318ea55f2e5ffbd7dc4d330d",
+      "bytes": 870
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/08_ct_regional_rail.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/08_ct_regional_rail.cpp",
+      "sha256": "04aac915a686c2a39a35c7fdfd7591bbb598cca4e5c8b2feb3f2369ffb5a87a8",
+      "bytes": 832
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/09_variation_mandatory_index_min_cost.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/09_variation_mandatory_index_min_cost.cpp",
+      "sha256": "922b44d5f6571a482ed6632b31a794eb5526b0de9d3cc24053a4b31345bb4ce6",
+      "bytes": 775
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/10_variation_component_count.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/10_variation_component_count.cpp",
+      "sha256": "6ba815f388b438c124007465dde7df7b20b27d766a15ebbc8075de8bf992ec6f",
+      "bytes": 521
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/kruskal_common.h",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Kruskal_DSU/kruskal_common.h",
+      "sha256": "45428766e7c5ba43eb7bb9621f8a2dce0b5ba519f3a815a4b0bb0bf80c5aa360",
+      "bytes": 950
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Prims/01_faculty_prims.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Prims/01_faculty_prims.cpp",
+      "sha256": "704dcd8f55bb26c2e351fba1c76e728e82a0f1efefa222c64f7c4996f9ed7018",
+      "bytes": 353
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Prims/02_variation_maximum_prims.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Prims/02_variation_maximum_prims.cpp",
+      "sha256": "d1358636d2d0d6a9f94e95d3c82abb48cb663a9cb42a48d761914b887498fc92",
+      "bytes": 658
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Prims/prims_common.h",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/Prims/prims_common.h",
+      "sha256": "e33ee1f0c93d163a76aad3324671a65b670f34a9ca490892d7bd17697c694953",
+      "bytes": 786
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/README.txt",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/README.txt",
+      "sha256": "d998dc9922fe00b8680c1baa60bad7dc8d1051d86a8059ef20bed77c2596b8a7",
+      "bytes": 1060
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Bellman_Ford/05_variation_destination_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Bellman_Ford/05_variation_destination_path.cpp",
+      "sha256": "4d2eb7a0dcf84c09ec58ef196f2716a2124a54a8b57cc276d94f49a0a310c8ba",
+      "bytes": 4736
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Dijkstra/06_variation_directed_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Dijkstra/06_variation_directed_path.cpp",
+      "sha256": "d78290d6525346e7021f95d70a1bd375cfef60f00498329fd031e089c318c1f4",
+      "bytes": 4392
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Dijkstra/07_variation_node_entry_fee.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Dijkstra/07_variation_node_entry_fee.cpp",
+      "sha256": "22caef4313d4400b7b1c4ac67a303b5917babbebe2f5c63526b93a8fa4e18a92",
+      "bytes": 3568
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Kruskal_DSU/09_variation_mandatory_index_min_cost.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Kruskal_DSU/09_variation_mandatory_index_min_cost.cpp",
+      "sha256": "ef73900fcf26900f469771a26fb9a3c1d55204b844bf799aebb9a0e69301cee2",
+      "bytes": 4266
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Kruskal_DSU/10_variation_component_count.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Kruskal_DSU/10_variation_component_count.cpp",
+      "sha256": "7831d6bde1009610a5133966dd847a0de32354b3a5a3b753a09d0a8bfa61efdd",
+      "bytes": 2606
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Prims/02_variation_maximum_prims.cpp",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style/variaition/Prims/02_variation_maximum_prims.cpp",
+      "sha256": "c16e68e64e903afd1fa11b930526edadfd759c8983c68d6e0472041ce3276e1d",
+      "bytes": 2694
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Algorithms_Faculty_Style.zip",
+      "origin": "DSA-II/Lab/Graph_Algorithms_Faculty_Style.zip",
+      "sha256": "fc802bde1218608b830e65241fa2390177d4cc032e35bb66b62c3021f8a067d8",
+      "bytes": 22200
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/ALL_VARIATIONS_FULL_CODE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/ALL_VARIATIONS_FULL_CODE.md",
+      "sha256": "3729f8cb8432fcff75b8017a7bcb61b2bbca7c9b0939cf4e8241f53e9cf21422",
+      "bytes": 85518
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/00_teacher_original_incomplete.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/00_teacher_original_incomplete.cpp",
+      "sha256": "4b6e8146901dc7bc4eb8a6e3917ee29de1dc5ba039baad84a002fbfbba57cce4",
+      "bytes": 2457
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/01_banking_transaction_cost.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/01_banking_transaction_cost.cpp",
+      "sha256": "9a9ec0f7978484ee655cc9a55e78a6b5887554049b74add0f47eca5f14f064c4",
+      "bytes": 2354
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/02_ev_battery_usage.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/02_ev_battery_usage.cpp",
+      "sha256": "a0453724e36bab60f72bb760f7e01ad18d8eed70278b776539cafb12df49274b",
+      "bytes": 2357
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/03_game_resource_cost.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/03_game_resource_cost.cpp",
+      "sha256": "18cf3d1298889b0f80a86288db988545be12c2913dda15ede9f5901038d84931",
+      "bytes": 2368
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/ALL_VARIATIONS_FULL_CODE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/ALL_VARIATIONS_FULL_CODE.md",
+      "sha256": "aaf395f6c787b213ffeecce68a3f81ca96651245d413482739b1a707dbc82173",
+      "bytes": 14658
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/MORE_01_change_at_most_k_edges.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/MORE_01_change_at_most_k_edges.cpp",
+      "sha256": "d9d4ad2d4c785a9cfe9acaec80d6cfed43fb7fa92ff801eb91d2b680c6078031",
+      "bytes": 1515
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/MORE_02_change_cycle_affects_destination.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/MORE_02_change_cycle_affects_destination.cpp",
+      "sha256": "b0ab22ed6c70a69c3cfba0d02d2443ed07d3c4fbf026af37992398a01e64d205",
+      "bytes": 1966
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/NEW_01_change_negative_cycle_anywhere.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/NEW_01_change_negative_cycle_anywhere.cpp",
+      "sha256": "635fa151f8e01b5aa2671bc6be70a4bf4cd907f7722b54e3bf6642f1c7027776",
+      "bytes": 1541
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/NEW_02_change_path_reconstruction.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Bellman_Ford/NEW_02_change_path_reconstruction.cpp",
+      "sha256": "b42d9a37d367394f6b14407522227e8cd497aac11043ad7b318982e9087ae396",
+      "bytes": 2163
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/00_teacher_original.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/00_teacher_original.cpp",
+      "sha256": "bb62846fa049605d67162a4446dbae572d31ef1dbb2c01355349dd30e1eeafaf",
+      "bytes": 2160
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/01_pizza_node_wait.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/01_pizza_node_wait.cpp",
+      "sha256": "5e691f60a673b918b608659d2363ed801450cb397122af0989939b01ea58d5ba",
+      "bytes": 2425
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/01_tourist_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/01_tourist_path.cpp",
+      "sha256": "7a2ca17a5f2b0cde8c47a80230880a75e9b68fddef4c2f911267777daefcb012",
+      "bytes": 2526
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/02_ambulance_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/02_ambulance_path.cpp",
+      "sha256": "c248047123bb324d3387748cdda2533b7b545ec3873a2e3cdbf46d09e503755b",
+      "bytes": 2546
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/03_package_path.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/03_package_path.cpp",
+      "sha256": "c48ae8f6826441a0dd300b36d61a34c6c591009f72a09e85b166cd6675891316",
+      "bytes": 2477
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/04_wildfire_nearest_shelter.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/04_wildfire_nearest_shelter.cpp",
+      "sha256": "7e0a8bf08c822f1a9b205ca5d7e96f59765352909244fb32963358b3551b803c",
+      "bytes": 2901
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/05_farm_nearest_cold_storage.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/05_farm_nearest_cold_storage.cpp",
+      "sha256": "9f3feba3fd9eac17156154d10a909d84695dfa84ff59e15486273d0e6138be18",
+      "bytes": 2916
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/ALL_VARIATIONS_FULL_CODE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/ALL_VARIATIONS_FULL_CODE.md",
+      "sha256": "a05c240a5add3b9c43497dbf7917102bb9df66ec61479424077b6a133e9a40c4",
+      "bytes": 29807
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/MORE_01_change_required_checkpoint.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/MORE_01_change_required_checkpoint.cpp",
+      "sha256": "23310efc4b61d2b8cbb43fdbbf5be9fc4c2f8b578e8dd53a1a71e8af6a3d59bf",
+      "bytes": 1796
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/MORE_02_change_forbidden_edge.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/MORE_02_change_forbidden_edge.cpp",
+      "sha256": "f404e0628638ee3cc620f49690db1a86548280b7fe0a1371d9b5c6aa62a1650c",
+      "bytes": 1766
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/MORE_03_change_farthest_reachable_vertex.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/MORE_03_change_farthest_reachable_vertex.cpp",
+      "sha256": "505cbd7337205c2338e59d485e90ee4950a3b615e74011cb5541919773bfe55a",
+      "bytes": 1777
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_01_change_directed_source_target.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_01_change_directed_source_target.cpp",
+      "sha256": "ea306a1424f5192f6857bd532a4b9ed82f4d06e83bbce48006b3184db89793bf",
+      "bytes": 1831
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_02_change_blocked_vertices.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_02_change_blocked_vertices.cpp",
+      "sha256": "8c79695e418d8d2b66e7a4f93a6036bc828cdd9d2dc02c8848d18118d19c403f",
+      "bytes": 2032
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_03_change_multiple_sources.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_03_change_multiple_sources.cpp",
+      "sha256": "4781dd7a8a2d246f7635a99505a4d2bea79432173745257d8de5de99943be182",
+      "bytes": 2121
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_04_change_count_shortest_paths.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Dijkstra/NEW_04_change_count_shortest_paths.cpp",
+      "sha256": "ef2f43a1b334fd4f51e4abc90df7232ee9a891cdbc92e309c967ff10ef450caa",
+      "bytes": 2030
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/DSU/01_corporate_merge_query.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/DSU/01_corporate_merge_query.cpp",
+      "sha256": "aceaaad77ee6e75474fed47ddff50963d526f561009ffc5694f868bb78997465",
+      "bytes": 1806
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/DSU/ALL_VARIATIONS_FULL_CODE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/DSU/ALL_VARIATIONS_FULL_CODE.md",
+      "sha256": "c0ab9c9ec4f189016eef5f0b794f99eff6615bb1737d8a7f3fb41f40fb483940",
+      "bytes": 8331
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/DSU/MORE_01_change_first_step_all_connected.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/DSU/MORE_01_change_first_step_all_connected.cpp",
+      "sha256": "7e26c9ab9b3a4734a8e651bc80daa3b8eab4932fe0cc2535b45c3dab3e3afbc3",
+      "bytes": 1439
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/DSU/MORE_02_change_dynamic_size_and_count_queries.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/DSU/MORE_02_change_dynamic_size_and_count_queries.cpp",
+      "sha256": "63bb1f99ed8049482c497979feb0a098fbeca0d07ec2b016350e346daa6cb547",
+      "bytes": 1737
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/DSU/NEW_01_change_component_count_and_size.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/DSU/NEW_01_change_component_count_and_size.cpp",
+      "sha256": "e3430f98d9900488a9eb86275734626bf16b2e1f19c4fed4debd5a3dea0f62d4",
+      "bytes": 1671
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/DSU/NEW_02_change_detect_undirected_cycle.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/DSU/NEW_02_change_detect_undirected_cycle.cpp",
+      "sha256": "2a10b95c1915e13cb6493af6da1f77476ac520fa1e78e01cc251e876fbf4bc8f",
+      "bytes": 1359
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/FILE_LIST.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/FILE_LIST.md",
+      "sha256": "0f73caf222867dd43808512f48e1dca756a8217fec29937f5899caab2406a8d0",
+      "bytes": 2251
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/00_teacher_original.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/00_teacher_original.cpp",
+      "sha256": "a6de3360af3519879d30caafdeb89e4aa69b5255fd99a8580431aac2f0175ff4",
+      "bytes": 1889
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/01_min_tree_largest_edge.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/01_min_tree_largest_edge.cpp",
+      "sha256": "ff9f186b53a96014e9280f9e3fc225296e13a9c1518276d84e6abdc45311be5c",
+      "bytes": 2076
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/02_max_tree_weakest_edge.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/02_max_tree_weakest_edge.cpp",
+      "sha256": "75bb676d28bb9d18c207f4dde6a90106f62e7d47d3eae445e8d6d9cd3954bbe3",
+      "bytes": 2086
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/03_max_truck_weight.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/03_max_truck_weight.cpp",
+      "sha256": "0818289d480cb791f7228fbc6afd42fb45e5abbd50914af92d8c0eccece18c14",
+      "bytes": 2083
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/04_fiber_existing_required.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/04_fiber_existing_required.cpp",
+      "sha256": "7126906ecb596a6cbe6ed3d18c80b8be274a2e2a27d253758b6cfcd354de044d",
+      "bytes": 2523
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/05_budget_tower_count.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/05_budget_tower_count.cpp",
+      "sha256": "28d46095855755ffb99d6cb7b1cb64916cb1bc7de1a3de474897848814a05293",
+      "bytes": 2499
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/06_metro_prebuilt_max_bandwidth.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/06_metro_prebuilt_max_bandwidth.cpp",
+      "sha256": "1b7481e8949bda08956b2eeb223ada5963ec13815bc27a4dc392f73c59c5d7a8",
+      "bytes": 2916
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/07_rail_mandatory_weakest.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/07_rail_mandatory_weakest.cpp",
+      "sha256": "0e1da1e355108e40f5edfbfafc0d960870b9b21683bedadddfddf3988371a864",
+      "bytes": 2922
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/ALL_VARIATIONS_FULL_CODE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/ALL_VARIATIONS_FULL_CODE.md",
+      "sha256": "66b08a5dfec5ad1e9e20f0561c316ff7128a21d7c2f18a0006a08db8e645536c",
+      "bytes": 27274
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/MORE_01_change_total_savings.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/MORE_01_change_total_savings.cpp",
+      "sha256": "9e59885ec40587361364dee74e39653ef0d112c9f81427c24951aa64ec05ab96",
+      "bytes": 1826
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/MORE_02_change_forbidden_edge_indices.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/MORE_02_change_forbidden_edge_indices.cpp",
+      "sha256": "93fc1f8a3e0fb2548708a646da59a6faaacfecfbb5a3c09e6fc5a4051d6a976d",
+      "bytes": 2089
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/NEW_01_change_maximum_total_weight.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/NEW_01_change_maximum_total_weight.cpp",
+      "sha256": "f419b5ba3d8ba8124b34770722c8e11e5220cc0c02f8663a6aa7c531243f0731",
+      "bytes": 1714
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/NEW_02_change_existing_free_links_no_mandatory.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/NEW_02_change_existing_free_links_no_mandatory.cpp",
+      "sha256": "ad0c20dd0d18b6f4fe618aa0e545ebbac5bc9e8fe86388e1f93c2ed50da6a593",
+      "bytes": 2026
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/NEW_03_change_stop_at_k_components.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Kruskal/NEW_03_change_stop_at_k_components.cpp",
+      "sha256": "d2223a872c6885267c82a7a52f8a137db61de4d90c8a9fce9bfd52b76e0cd7bd",
+      "bytes": 1877
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/MORE_VARIATIONS_GUIDE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/MORE_VARIATIONS_GUIDE.md",
+      "sha256": "a095d946287cc9c7b631f897c5bfba9da9c5caccb06a3df7d9aa1f60f9bf06bd",
+      "bytes": 1424
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/NEW_VARIATIONS_GUIDE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/NEW_VARIATIONS_GUIDE.md",
+      "sha256": "9ac39d194bc8bcfbd738ac3c574a4cebeef6029310e89949531fc9f4fe1f1564",
+      "bytes": 1730
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Prims/00_teacher_original.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Prims/00_teacher_original.cpp",
+      "sha256": "5a361493df14d43836a19357960b965615fed9274e8d5ef7b4e16b5832097370",
+      "bytes": 1726
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Prims/ALL_VARIATIONS_FULL_CODE.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Prims/ALL_VARIATIONS_FULL_CODE.md",
+      "sha256": "3a86ed30b6c0bb9baa06adf764275c186133f3cfa28cf3640a054d3f2c63b92a",
+      "bytes": 5311
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Prims/MORE_01_change_report_largest_mst_edge.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Prims/MORE_01_change_report_largest_mst_edge.cpp",
+      "sha256": "fc04429c40dc4b603aee5d3f51184e28eba1b3f1253ab91450d741bd30da86be",
+      "bytes": 1641
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Prims/NEW_01_change_maximum_spanning_total.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Prims/NEW_01_change_maximum_spanning_total.cpp",
+      "sha256": "0aae5861ee4acdc42a6ce5e8382ac282bf70f7bf7ddfa97182665f4640d6496b",
+      "bytes": 1624
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Prims/NEW_02_change_print_selected_mst_edges.cpp",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Prims/NEW_02_change_print_selected_mst_edges.cpp",
+      "sha256": "89a3223664afe0ea8162e49b1f0817de0d67c9b3a3767bfb3a725caccac51738",
+      "bytes": 1838
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/README.md",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/README.md",
+      "sha256": "71e446fd57147bf3259932fd6433cb315e6a17b75500dfeffa4a83f81d214dac",
+      "bytes": 4914
+    },
+    {
+      "file": "DSA-II/Lab/Graph_Exam_CPP/Teacher_Originals/codes.zip",
+      "origin": "DSA-II/Lab/Graph_Exam_CPP/Teacher_Originals/codes.zip",
+      "sha256": "70ab00bceeb5fae06d173fa4e829ce2c54cecb3f8475afef548ea6d325d0b627",
+      "bytes": 4697
+    },
+    {
+      "file": "DSA-II/Lab/Greedy and DP.docx",
+      "origin": "DSA-II/Lab/Greedy and DP.docx",
+      "sha256": "dec65d15311d1db7975bd360237e41cbd6ba359dc1ee1a6356b00deb97b761cc",
+      "bytes": 1295362
+    },
+    {
+      "file": "DSA-II/Lab/lecture_1 (1).zip",
+      "origin": "DSA-II/Lab/lecture_1 (1).zip",
+      "sha256": "b3cad7006920fe1dde719f8ea60142575d2c6314680e22463f4187070991828e",
+      "bytes": 2314
+    },
+    {
+      "file": "DSA-II/Lab/lecture_1.zip",
+      "origin": "DSA-II/Lab/lecture_1.zip",
+      "sha256": "b3cad7006920fe1dde719f8ea60142575d2c6314680e22463f4187070991828e",
+      "bytes": 2314
+    },
+    {
+      "file": "DSA-II/Lab/Mid-U.pdf",
+      "origin": "DSA-II/Lab/Mid-U.pdf",
+      "sha256": "67a70c10155d5b1c6cdc69bb6a8772ab0422f03b3008584af1b12a5bfd27b9eb",
+      "bytes": 79095
+    },
+    {
+      "file": "DSA-II/Lab/Syntax.txt (1).txt",
+      "origin": "DSA-II/Lab/Syntax.txt (1).txt",
+      "sha256": "f44cad6f4d3c788458602ef53840f206de39d64172ecb59fd957d34a100a4e7c",
+      "bytes": 25002
+    },
+    {
+      "file": "DSA-II/Lab/Syntax.txt.txt",
+      "origin": "DSA-II/Lab/Syntax.txt.txt",
+      "sha256": "f44cad6f4d3c788458602ef53840f206de39d64172ecb59fd957d34a100a4e7c",
+      "bytes": 25002
+    },
+    {
+      "file": "DSA-II/Theory/1. Disjoint Set Union.pdf",
+      "origin": "DSA-II/Theory/1. Disjoint Set Union.pdf",
+      "sha256": "11bff90299ea4d8c5a188d8db594e9196d5a3c048d1e79ac9203dcdada543818",
+      "bytes": 938700
+    },
+    {
+      "file": "DSA-II/Theory/1. Introduction to Asymptotic analysis.pptx",
+      "origin": "DSA-II/Theory/1. Introduction to Asymptotic analysis.pptx",
+      "sha256": "e99bc9f46848bab66d7b0f5be2fc64b35796f3520aac4eb47fe383cad83180e1",
+      "bytes": 916509
+    },
+    {
+      "file": "DSA-II/Theory/2. Algorithm Analyzing.pptx",
+      "origin": "DSA-II/Theory/2. Algorithm Analyzing.pptx",
+      "sha256": "59faedc1ca4afa211c487df6cc80d284dfaadf48d4c036761c014d5e5b935364",
+      "bytes": 1137106
+    },
+    {
+      "file": "DSA-II/Theory/2. Minimum Spanning Tree (MST).pptx",
+      "origin": "DSA-II/Theory/2. Minimum Spanning Tree (MST).pptx",
+      "sha256": "f89edd79af193ba9b8ed97780553aac244e84a91bb450626ddc80b672d9619e2",
+      "bytes": 1352030
+    },
+    {
+      "file": "DSA-II/Theory/3. Recurrence Relation.pptx",
+      "origin": "DSA-II/Theory/3. Recurrence Relation.pptx",
+      "sha256": "beec4fa5b76fde8c4879fa2135bf50ede940952f32347c479781dea3d4fcfb2e",
+      "bytes": 442159
+    },
+    {
+      "file": "DSA-II/Theory/3. Single Source Shortest Path (SSSP).pptx",
+      "origin": "DSA-II/Theory/3. Single Source Shortest Path (SSSP).pptx",
+      "sha256": "1993e0f9942c1d10fe3875e53e409d4733340fdd50ad156f298d1275bdcaa244",
+      "bytes": 384479
+    },
+    {
+      "file": "DSA-II/Theory/4. Divide Conquer Approach.pdf",
+      "origin": "DSA-II/Theory/4. Divide Conquer Approach.pdf",
+      "sha256": "b768ce88216ccd257d6c4e8f72b0f2b52789ee72b2232b71ee4539470a5c0239",
+      "bytes": 1406735
+    },
+    {
+      "file": "DSA-II/Theory/4. Divide Conquer Approach.pptx",
+      "origin": "DSA-II/Theory/4. Divide Conquer Approach.pptx",
+      "sha256": "19d7ac56b0da1eea480e6e9038f2603e7cb5d0fb5aa35c955efb66a92452fe76",
+      "bytes": 1828308
+    },
+    {
+      "file": "DSA-II/Theory/4. Hashing.pptx",
+      "origin": "DSA-II/Theory/4. Hashing.pptx",
+      "sha256": "04816d59aa344aaae8c2d6f79558f59d2452f7cafbeb7a59ef8a87e10d566e70",
+      "bytes": 445709
+    },
+    {
+      "file": "DSA-II/Theory/5. Greedy Activity Selection.pptx",
+      "origin": "DSA-II/Theory/5. Greedy Activity Selection.pptx",
+      "sha256": "19c2997b2f46763059db3e65246a9430f14fb2cf3abac1cf6d05e1d2807ac8ae",
+      "bytes": 225899
+    },
+    {
+      "file": "DSA-II/Theory/5. String Matching.pdf",
+      "origin": "DSA-II/Theory/5. String Matching.pdf",
+      "sha256": "9c3cd924e5fe56319e768c9b9c358c0b680e043d19e52778ad2ebde18385450a",
+      "bytes": 1399491
+    },
+    {
+      "file": "DSA-II/Theory/6. Greedy Fractional Knapsack.pptx",
+      "origin": "DSA-II/Theory/6. Greedy Fractional Knapsack.pptx",
+      "sha256": "1883036a9fbce6ec06449a26fcdeb169984a5f3281f3ca39397d90b996d1aef3",
+      "bytes": 1012752
+    },
+    {
+      "file": "DSA-II/Theory/7. Greedy Huffman Coding.pptx",
+      "origin": "DSA-II/Theory/7. Greedy Huffman Coding.pptx",
+      "sha256": "032f1ba98e7079c5c6c110c164fcd750d9472f8e19be7286dda8c83a200a5339",
+      "bytes": 398483
+    },
+    {
+      "file": "DSA-II/Theory/DSA-II_Assignment(1).pdf",
+      "origin": "DSA-II/Theory/DSA-II_Assignment(1).pdf",
+      "sha256": "f8c9539d599a11da0fc8eb38c09389d1d54673b1c2725e39b6609321e6f21dd1",
+      "bytes": 2316909
+    },
+    {
+      "file": "DSA-II/Theory/DSA-II_Assignment.pdf",
+      "origin": "DSA-II/Theory/DSA-II_Assignment.pdf",
+      "sha256": "d9c4ed7e6b5153079988fbf613c7ab0b60c8b7e97533805cbdc1383b08975d7b",
+      "bytes": 2262009
+    },
+    {
+      "file": "DSA-II/Theory/DSA_Cover_Page.pdf",
+      "origin": "DSA-II/Theory/DSA_Cover_Page.pdf",
+      "sha256": "71207a26db577d74e48a126f9cbc45f200cdc210a1651ea2c44e3670862cc5e3",
+      "bytes": 59823
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 213.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 213.pdf",
+      "sha256": "1641b5d66f88b104b0ac8a851faf940b7fc6ba193c4a578a7ea98e203cb8c55b",
+      "bytes": 150050
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 221.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 221.pdf",
+      "sha256": "df46770eb5fac332e7c240f6e81185dab2fb1651e5c2724c742347a6b8ef24fe",
+      "bytes": 133881
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 222.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 222.pdf",
+      "sha256": "2ae401dc219f9b862c820868af8813537e5384c929f2d23773f99200ee112a39",
+      "bytes": 179570
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 223.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 223.pdf",
+      "sha256": "7651904e9c03f70b187478c78a5cb9975773d22c0d23010cb8c47ff46289133c",
+      "bytes": 124328
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 231.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 231.pdf",
+      "sha256": "15be745c0519a9cb7360453705e19cb655f1e3379ad3369ad705ac016a6871dc",
+      "bytes": 139941
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 232.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 232.pdf",
+      "sha256": "135f1a5f5bfa979c2327110eef929ba1860729f4ce1b2494933e8d487af007be",
+      "bytes": 128212
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 233.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 233.pdf",
+      "sha256": "56ca73327fb33efa5ff76a2747c2d38c90864f3b5c96b8ae097f0e0abc6da843",
+      "bytes": 127909
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 241.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 241.pdf",
+      "sha256": "ccef5ff8407645d69f8262aa0a3f63dadf6433bb5866bd771fa3d28852823eec",
+      "bytes": 126171
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 242.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 242.pdf",
+      "sha256": "14aa80f3de7728f2a27981b1fbd8e27354019d33644d88c721467cd79b166acb",
+      "bytes": 146576
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 243.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Data Structure and Algorithms II - Final - 243.pdf",
+      "sha256": "bae7b0b99c01df52704a484b2aff6fe0a4f84b585abe727da9f673d28f0c6eb0",
+      "bytes": 120176
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Fall 25.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Fall 25.pdf",
+      "sha256": "060e1470d655443f4ee90130267d36f75c8f1331837a25fb6d51043db26179fa",
+      "bytes": 735528
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Spring 25.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Spring 25.pdf",
+      "sha256": "3ad019eac993db8a84e66446c890bc770a02f55910520a65e66578eabba2e3b8",
+      "bytes": 327779
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Spring 26.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Spring 26.pdf",
+      "sha256": "9a9c809ec23418774646ebb9c37eab37c3cf6070083b2b1d24b053d960fc5469",
+      "bytes": 334646
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques/Summer 25.pdf",
+      "origin": "DSA-II/Theory/Final_Ques/Summer 25.pdf",
+      "sha256": "487e11c3f69b2f620172d6902691d72b0131c7b3bb5f83b65dcfe77f10805926",
+      "bytes": 213327
+    },
+    {
+      "file": "DSA-II/Theory/Final_Ques.zip",
+      "origin": "DSA-II/Theory/Final_Ques.zip",
+      "sha256": "328d00cbdb804d81a0516852ccf20aff625c3a748f38941cef15cfda4b93ccb2",
+      "bytes": 2732527
+    },
+    {
+      "file": "DSA-II/Theory/Mid_Fall_25.pdf",
+      "origin": "DSA-II/Theory/Mid_Fall_25.pdf",
+      "sha256": "0cd30113820e32483ee0f4f2a831c0310bf1fb79bf0e8612102b844765db0f2c",
+      "bytes": 333707
+    },
+    {
+      "file": "DSA-II/Theory/Mid_Spring_25.pdf",
+      "origin": "DSA-II/Theory/Mid_Spring_25.pdf",
+      "sha256": "377fded15cc480ec1e881f81ca7c967d08fb07f0e8571ce6776cd9c5e2d19fee",
+      "bytes": 43772
+    },
+    {
+      "file": "DSA-II/Theory/Mid_Spring_26.pdf",
+      "origin": "DSA-II/Theory/Mid_Spring_26.pdf",
+      "sha256": "f8c5ffee3a11b2bbd758eff72a7ec8f3e17d16d327daeb3074eaaee4e9a158b5",
+      "bytes": 276374
+    },
+    {
+      "file": "DSA-II/Theory/Mid_Summer_25.pdf",
+      "origin": "DSA-II/Theory/Mid_Summer_25.pdf",
+      "sha256": "8adcf21f489a180ae19c75f18c86e5e57027fdbcf34640121fe4a24c00d6a44b",
+      "bytes": 167136
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/0112430108/0112430108/q1.cpp",
+      "origin": "DSA-II/Lab/0112430108.zip :: 0112430108/q1.cpp",
+      "sha256": "ea7df0f1fe03448591840e69e32fe3520a2461e3ad7e94756b554e51ff47109b",
+      "bytes": 1197
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/0112430108/0112430108/q3.cpp",
+      "origin": "DSA-II/Lab/0112430108.zip :: 0112430108/q3.cpp",
+      "sha256": "ff781889174da85f57223df39d0b4afd806b007360d3400da13b701131285d3a",
+      "bytes": 1189
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/0112430108/0112430108/q5.cpp",
+      "origin": "DSA-II/Lab/0112430108.zip :: 0112430108/q5.cpp",
+      "sha256": "d8db10de5c95e71983d5a4be81d2c92b527d30433abbe00d5c3a24fa45eed68c",
+      "bytes": 945
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/00_READ_ME_FIRST.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/00_READ_ME_FIRST.cpp",
+      "sha256": "cff6284582575bc8347fe347c6fc685e2b2a6ee42e0e49c6cbd4517f07c5928e",
+      "bytes": 760
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/01_vector_sum.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/01_vector_sum.cpp",
+      "sha256": "9e420b91bbdf02514101600e1984be79986eed9983aae2eef7edc510d91e6964",
+      "bytes": 381
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/02_string_basics.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/02_string_basics.cpp",
+      "sha256": "35a5ebbf1ad6c9b60c2936a5909cf837cbad5cdd50e5f67753a883892330ecef",
+      "bytes": 293
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/03_team_ranking_custom_sort.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/03_team_ranking_custom_sort.cpp",
+      "sha256": "b0f8f0585cd1c6d6e425c9f21cc3aa9bdfc14550f05430f5426d70da31f94620",
+      "bytes": 811
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/04_binary_search_functions.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/04_binary_search_functions.cpp",
+      "sha256": "923c549ba4300ab7c91c163929e6d5c91964a5cb7e5fb027a1cf5ffedd03a1d3",
+      "bytes": 858
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/05_second_maximum_distinct.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/05_second_maximum_distinct.cpp",
+      "sha256": "6f1365542f7e6b99ebd24db18fa8d3783469fbcb9b1ae81d3ffb8ee0211f2cb6",
+      "bytes": 712
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/06_stack_queue_deque.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/06_stack_queue_deque.cpp",
+      "sha256": "ea93f7027a638a91361dacec63615400c22b34ad9271df4f9eb3813f5643f4cf",
+      "bytes": 632
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/07_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/01_STL/07_exam_variations_main_changes.cpp",
+      "sha256": "cbb1c3ff45b6e5400d5fe766f07df0cdd77852fa48298b49436840729c161c55",
+      "bytes": 921
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/01_merge_sort_ascending.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/01_merge_sort_ascending.cpp",
+      "sha256": "dd96c158b5690fe6d119ac5fc2475d5d82a0ff870191657833e1e7c150bcc238",
+      "bytes": 1362
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/02_merge_sort_descending.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/02_merge_sort_descending.cpp",
+      "sha256": "570de9047b5c802e7b7a420acfe1f45b8efcad5793cbf35fd799a7a3d70032aa",
+      "bytes": 1413
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/03_three_way_merge_sort.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/03_three_way_merge_sort.cpp",
+      "sha256": "b1a5314d4ccd7c4751ec76bb49a48bff9c4b2ac776a758c26679dff4a8b0f8c1",
+      "bytes": 1895
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/04_sum_all_even_numbers.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/04_sum_all_even_numbers.cpp",
+      "sha256": "f8307e85ef7755742e550eb1606bb7ab6420eb100f3689af66292d3c7986c29d",
+      "bytes": 666
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/05_second_maximum.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/05_second_maximum.cpp",
+      "sha256": "6c3efbde20a0a379e0c6c33c7c19c7f7b670dc585f590f118d9aec89c5ea6a83",
+      "bytes": 1339
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/06_second_minimum.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/06_second_minimum.cpp",
+      "sha256": "abf0b97e46ea013a2b782f02817a12b4d3f36fad0b73525e9bb151bf2560cc4f",
+      "bytes": 1273
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/07_fast_power.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/07_fast_power.cpp",
+      "sha256": "68680d31e33d773ce5efae85586aa17776ae5147e477a7a6c9b433f9c9a20914",
+      "bytes": 486
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/08_count_multiples_3_or_5.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/08_count_multiples_3_or_5.cpp",
+      "sha256": "a3cceb21e788853a9f198e475cb1209d7c0161359b952785dfc06cd3219d1ebe",
+      "bytes": 723
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/09_maximum_sum_subarray.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/09_maximum_sum_subarray.cpp",
+      "sha256": "ee2e6acab35c98c83e99cd6dd143598571064ca3ca4f1e591ebdd6c4960bb1e0",
+      "bytes": 1168
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/10_minimum_sum_subarray.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/10_minimum_sum_subarray.cpp",
+      "sha256": "b57b29a3a7ca2f5d0f2d0e099f17d9e1af4ac2e823096ad545b345ab566676b5",
+      "bytes": 1101
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/11_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/02_Divide_and_Conquer/11_exam_variations_main_changes.cpp",
+      "sha256": "f48d9e766798203d5032e0de9debf48572e2441680ce763316f7e6f243665008",
+      "bytes": 848
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/01_music_festival.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/01_music_festival.cpp",
+      "sha256": "b5559d5ec412e25ef5a9962234424f978630bfabdeea70bbc8420a6d154a048e",
+      "bytes": 962
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/02_telescope_scheduler.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/02_telescope_scheduler.cpp",
+      "sha256": "26264573449a7801f8d065b92e3573451258a07c8c699c72040f79fc6441a8ff",
+      "bytes": 818
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/03_mandatory_gap_variation.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/03_mandatory_gap_variation.cpp",
+      "sha256": "568decef8e199d2de6055e030db6aaf7ca391d4afeb159f14b001caad4c00293",
+      "bytes": 917
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/04_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/04_exam_variations_main_changes.cpp",
+      "sha256": "a13ae56c34841a137d68ea79a5304ad3edf5da4b18d3ae37c0501f574982cceb",
+      "bytes": 635
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/01_master_chefs_pantry.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/01_master_chefs_pantry.cpp",
+      "sha256": "2ff91d87eaf54f69a438b0d86350e2299e224750c397f7341aa0da289360cc41",
+      "bytes": 1298
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/02_disaster_relief_airdrop.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/02_disaster_relief_airdrop.cpp",
+      "sha256": "e1783c338c6ce6da94103d22c7c53fc3d3d73a0f94e7b38c01f26ae7f5377148",
+      "bytes": 1253
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/03_unlimited_full_max_k_partial.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/03_unlimited_full_max_k_partial.cpp",
+      "sha256": "eb49eeee95e8be1d233b98f34e0b49eb80d2a8895afe0e5552779b3aec63cfd9",
+      "bytes": 1445
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/04_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/04_exam_variations_main_changes.cpp",
+      "sha256": "eb416c5b47006bb31d7ada613db5f6e2dd19ab5708fd77abb28c64abdf84bf94",
+      "bytes": 643
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/01_mars_rover_payload.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/01_mars_rover_payload.cpp",
+      "sha256": "247a34b31df7f4423f69814f2f76863c66924d693663bf8c4ee7f273487d94e0",
+      "bytes": 1240
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/02_sunday_binge_watcher.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/02_sunday_binge_watcher.cpp",
+      "sha256": "156bce3d671ae3133c807c9570f5c1c534fad114acc9df66e6b4149eb5190d7f",
+      "bytes": 1282
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/03_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/03_exam_variations_main_changes.cpp",
+      "sha256": "db06e4ac387f0c5fdf48921826a2f2db825174c351a90a46c73f4ce073be3415",
+      "bytes": 856
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/01_postage_stamp_dilemma.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/Coin_Change/01_postage_stamp_dilemma.cpp",
+      "sha256": "967e6103b9963ac1ef2c222cfce6cc4246211ce468ca7a0b0889c8498a54d7d5",
+      "bytes": 1063
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/02_arcade_token_master.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/Coin_Change/02_arcade_token_master.cpp",
+      "sha256": "22792d09f8f2f0d3f38a64314a7e10b5c09ee2e5294dcd1149701c2a51ade9d7",
+      "bytes": 930
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/03_total_ordered_ways_variation.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/Coin_Change/03_total_ordered_ways_variation.cpp",
+      "sha256": "738ab1a2e8db8691b693eb201bb328bb56fea03d42d1f2e1af5a21f6c81cd76f",
+      "bytes": 865
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/04_exam_variations_main_changes.cpp",
+      "origin": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip :: DSA_Exam_Practice_Codes/04_DP/Coin_Change/04_exam_variations_main_changes.cpp",
+      "sha256": "8c1971661b8a521418dece1a15c54813ae8b5be51d82cd5582688b4f256a79d0",
+      "bytes": 957
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob1.cpp",
+      "origin": "DSA-II/Lab/lecture_1 (1).zip :: lecture_1/prob1.cpp",
+      "sha256": "a8c7288332c6b752c1514c3a4f10c236e527cb199b600c4bdb6c97a923d1c871",
+      "bytes": 1588
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob2.cpp",
+      "origin": "DSA-II/Lab/lecture_1 (1).zip :: lecture_1/prob2.cpp",
+      "sha256": "a1f4823ddc8d74a0bed30b2d8ae0f93cfe4db732d9bfc929b0734aa2d3346e36",
+      "bytes": 272
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob3.cpp",
+      "origin": "DSA-II/Lab/lecture_1 (1).zip :: lecture_1/prob3.cpp",
+      "sha256": "f1a7fa317978528bc791de2bce007e6c3002aecd2873cb0004e286bc3195b6a8",
+      "bytes": 1039
+    },
+    {
+      "file": "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob4.cpp",
+      "origin": "DSA-II/Lab/lecture_1 (1).zip :: lecture_1/prob4.cpp",
+      "sha256": "2ef5238ed472e4a6ba99aab251b2f5a047de2c4770f070529f5b26964a83469c",
+      "bytes": 699
+    }
+  ],
+  "archives": [
+    {
+      "archive": "DSA-I/Lab/C/0112430108_Assignment1.zip",
+      "eligible_members": 4,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-I/Lab/C/Assignment2.zip",
+      "eligible_members": 3,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/0112430108.zip",
+      "eligible_members": 3,
+      "new_content_members": 3,
+      "extracted_files": [
+        "DSA-II/Lab/ArchiveContents/0112430108/0112430108/q1.cpp",
+        "DSA-II/Lab/ArchiveContents/0112430108/0112430108/q3.cpp",
+        "DSA-II/Lab/ArchiveContents/0112430108/0112430108/q5.cpp"
+      ],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/0112430108_Assignment 3.zip",
+      "eligible_members": 4,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/0112430108_Assignment3.zip",
+      "eligible_members": 4,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/0112430108_Assignment_1.zip",
+      "eligible_members": 2,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/0112430108_Assignment_2.zip",
+      "eligible_members": 3,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/DSA_Exam_Practice_Codes.zip",
+      "eligible_members": 34,
+      "new_content_members": 1,
+      "extracted_files": [
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/00_READ_ME_FIRST.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/01_vector_sum.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/02_string_basics.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/03_team_ranking_custom_sort.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/04_binary_search_functions.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/05_second_maximum_distinct.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/06_stack_queue_deque.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/01_STL/07_exam_variations_main_changes.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/01_merge_sort_ascending.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/02_merge_sort_descending.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/03_three_way_merge_sort.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/04_sum_all_even_numbers.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/05_second_maximum.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/06_second_minimum.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/07_fast_power.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/08_count_multiples_3_or_5.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/09_maximum_sum_subarray.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/10_minimum_sum_subarray.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/02_Divide_and_Conquer/11_exam_variations_main_changes.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/01_music_festival.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/02_telescope_scheduler.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/03_mandatory_gap_variation.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Activity_Selection/04_exam_variations_main_changes.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/01_master_chefs_pantry.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/02_disaster_relief_airdrop.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/03_unlimited_full_max_k_partial.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/03_Greedy/Fractional_Knapsack/04_exam_variations_main_changes.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/01_mars_rover_payload.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/02_sunday_binge_watcher.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/0_1_Knapsack/03_exam_variations_main_changes.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/01_postage_stamp_dilemma.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/02_arcade_token_master.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/03_total_ordered_ways_variation.cpp",
+        "DSA-II/Lab/ArchiveContents/DSA_Exam_Practice_Codes/DSA_Exam_Practice_Codes/04_DP/Coin_Change/04_exam_variations_main_changes.cpp"
+      ],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/Graph_Algorithms_Faculty_Style.zip",
+      "eligible_members": 29,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/Graph_Exam_CPP/Teacher_Originals/codes.zip",
+      "eligible_members": 4,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/lecture_1 (1).zip",
+      "eligible_members": 4,
+      "new_content_members": 4,
+      "extracted_files": [
+        "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob1.cpp",
+        "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob2.cpp",
+        "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob3.cpp",
+        "DSA-II/Lab/ArchiveContents/lecture_1 (1)/lecture_1/prob4.cpp"
+      ],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Lab/lecture_1.zip",
+      "eligible_members": 4,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    },
+    {
+      "archive": "DSA-II/Theory/Final_Ques.zip",
+      "eligible_members": 14,
+      "new_content_members": 0,
+      "extracted_files": [],
+      "original_zip_retained": true
+    }
+  ]
+}

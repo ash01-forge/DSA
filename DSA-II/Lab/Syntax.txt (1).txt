@@ -1,0 +1,1170 @@
+DSA-II CT-1 — COMPLETE C++ CODEBOOK
+C++ STL + DIVIDE AND CONQUER
+All programs are complete and should be compiled separately.
+========================================================================================
+
+[STL-01] Team Ranking Using Custom Sort
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+bool custom_sort(pair<int,int>a, pair<int,int>b)
+{
+    int sum_a=a.first+a.second;
+    int sum_b=b.first+b.second;
+
+    /// higher total health comes first
+    if(sum_a>sum_b)
+        return true;
+    else
+        return false;
+}
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<pair<int,int>>v;
+
+    for(int i=0;i<n;i++)
+    {
+        int a,b;
+        cin>>a>>b;
+        v.push_back(make_pair(a,b));
+    }
+
+    sort(v.begin(),v.end(),custom_sort);
+
+    for(int i=0;i<v.size();i++)
+    {
+        cout<<v[i].first<<" "<<v[i].second<<" ";
+        cout<<"total = "<<v[i].first+v[i].second<<endl;
+    }
+}
+========================================================================================
+
+[STL-02] Custom Sort With Tie-Breaking
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+bool custom_sort(pair<int,int>a, pair<int,int>b)
+{
+    int sum_a=a.first+a.second;
+    int sum_b=b.first+b.second;
+
+    if(sum_a!=sum_b)
+        return sum_a>sum_b;
+
+    /// total equal hole first health descending
+    if(a.first!=b.first)
+        return a.first>b.first;
+
+    /// first-o equal hole second health descending
+    return a.second>b.second;
+}
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<pair<int,int>>v;
+
+    for(int i=0;i<n;i++)
+    {
+        int a,b;
+        cin>>a>>b;
+        v.push_back(make_pair(a,b));
+    }
+
+    sort(v.begin(),v.end(),custom_sort);
+
+    for(int i=0;i<v.size();i++)
+        cout<<v[i].first<<" "<<v[i].second<<endl;
+}
+========================================================================================
+
+[STL-03] Common Custom Comparator Variations
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+bool first_asc_second_asc(pair<int,int>a, pair<int,int>b)
+{
+    if(a.first!=b.first)
+        return a.first<b.first;
+    return a.second<b.second;
+}
+
+bool first_asc_second_desc(pair<int,int>a, pair<int,int>b)
+{
+    if(a.first!=b.first)
+        return a.first<b.first;
+    return a.second>b.second;
+}
+
+bool second_ascending(pair<int,int>a, pair<int,int>b)
+{
+    if(a.second!=b.second)
+        return a.second<b.second;
+    return a.first<b.first;
+}
+
+bool sum_ascending(pair<int,int>a, pair<int,int>b)
+{
+    return a.first+a.second < b.first+b.second;
+}
+
+bool sum_descending(pair<int,int>a, pair<int,int>b)
+{
+    return a.first+a.second > b.first+b.second;
+}
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<pair<int,int>>v;
+    for(int i=0;i<n;i++)
+    {
+        int a,b;
+        cin>>a>>b;
+        v.push_back(make_pair(a,b));
+    }
+
+    int choice;
+    cin>>choice;
+
+    if(choice==1)
+        sort(v.begin(),v.end(),first_asc_second_asc);
+    else if(choice==2)
+        sort(v.begin(),v.end(),first_asc_second_desc);
+    else if(choice==3)
+        sort(v.begin(),v.end(),second_ascending);
+    else if(choice==4)
+        sort(v.begin(),v.end(),sum_ascending);
+    else
+        sort(v.begin(),v.end(),sum_descending);
+
+    for(int i=0;i<v.size();i++)
+        cout<<v[i].first<<" "<<v[i].second<<endl;
+}
+========================================================================================
+
+[STL-04] Basic Binary-Search Functions
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    vector<int>v={2,3,6,9,11,12,12,12,15,16};
+
+    int x;
+    cin>>x;
+
+    bool found=binary_search(v.begin(),v.end(),x);
+    cout<<"binary_search: "<<found<<endl;
+
+    /// first position where value >= x
+    auto lower=lower_bound(v.begin(),v.end(),x);
+
+    if(lower!=v.end())
+    {
+        cout<<"lower_bound value: "<<*lower<<endl;
+        cout<<"lower_bound index: "<<lower-v.begin()<<endl;
+    }
+    else
+        cout<<"lower_bound is at end"<<endl;
+
+    /// first position where value > x
+    auto upper=upper_bound(v.begin(),v.end(),x);
+
+    if(upper!=v.end())
+    {
+        cout<<"upper_bound value: "<<*upper<<endl;
+        cout<<"upper_bound index: "<<upper-v.begin()<<endl;
+    }
+    else
+        cout<<"upper_bound is at end"<<endl;
+
+    int frequency=upper-lower;
+    cout<<"frequency: "<<frequency<<endl;
+}
+========================================================================================
+
+[STL-05] First Index, Last Index and Frequency
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<int>v;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    /// binary-search functions need a sorted vector
+    sort(v.begin(),v.end());
+
+    int x;
+    cin>>x;
+
+    auto lower=lower_bound(v.begin(),v.end(),x);
+    auto upper=upper_bound(v.begin(),v.end(),x);
+
+    if(lower==v.end() || *lower!=x)
+    {
+        cout<<"element not found"<<endl;
+    }
+    else
+    {
+        int first_index=lower-v.begin();
+        int last_index=upper-v.begin()-1;
+        int frequency=upper-lower;
+
+        cout<<"first index = "<<first_index<<endl;
+        cout<<"last index = "<<last_index<<endl;
+        cout<<"frequency = "<<frequency<<endl;
+    }
+}
+========================================================================================
+
+[STL-06] Count Values Inside Range [L,R]
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<int>v;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    sort(v.begin(),v.end());
+
+    int L,R;
+    cin>>L>>R;
+
+    /// first position where value >= L
+    auto left_position=lower_bound(v.begin(),v.end(),L);
+
+    /// first position where value > R
+    auto right_position=upper_bound(v.begin(),v.end(),R);
+
+    int answer=right_position-left_position;
+    cout<<answer<<endl;
+}
+========================================================================================
+
+[STL-07] Count <x, <=x, >x and >=x
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<int>v;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    sort(v.begin(),v.end());
+
+    int x;
+    cin>>x;
+
+    auto lower=lower_bound(v.begin(),v.end(),x);
+    auto upper=upper_bound(v.begin(),v.end(),x);
+
+    int less_than_x=lower-v.begin();
+    int less_or_equal_x=upper-v.begin();
+    int greater_or_equal_x=v.end()-lower;
+    int greater_than_x=v.end()-upper;
+
+    cout<<"less than x = "<<less_than_x<<endl;
+    cout<<"less than or equal x = "<<less_or_equal_x<<endl;
+    cout<<"greater than or equal x = "<<greater_or_equal_x<<endl;
+    cout<<"greater than x = "<<greater_than_x<<endl;
+}
+========================================================================================
+
+[STL-08] Multiple Search Queries
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<int>v;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    sort(v.begin(),v.end());
+
+    int q;
+    cin>>q;
+
+    while(q--)
+    {
+        int x;
+        cin>>x;
+
+        auto lower=lower_bound(v.begin(),v.end(),x);
+        auto upper=upper_bound(v.begin(),v.end(),x);
+        int frequency=upper-lower;
+
+        if(frequency==0)
+            cout<<x<<" is not present"<<endl;
+        else
+        {
+            cout<<"value = "<<x<<endl;
+            cout<<"first index = "<<lower-v.begin()<<endl;
+            cout<<"last index = "<<upper-v.begin()-1<<endl;
+            cout<<"frequency = "<<frequency<<endl;
+        }
+    }
+}
+========================================================================================
+
+[STL-09] accumulate, max_element, min_element and reverse
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<numeric>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+
+    vector<int>v;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    int sum=accumulate(v.begin(),v.end(),0);
+    auto maximum=max_element(v.begin(),v.end());
+    auto minimum=min_element(v.begin(),v.end());
+
+    cout<<"sum = "<<sum<<endl;
+
+    if(!v.empty())
+    {
+        cout<<"maximum = "<<*maximum<<endl;
+        cout<<"minimum = "<<*minimum<<endl;
+    }
+
+    reverse(v.begin(),v.end());
+
+    cout<<"after reverse: ";
+    for(int i=0;i<v.size();i++)
+        cout<<v[i]<<" ";
+}
+========================================================================================
+
+[STL-10] Vector and String Basics
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+#include<string>
+using namespace std;
+
+int main()
+{
+    /// vector part
+    int n;
+    cin>>n;
+
+    vector<int>v;
+    int sum=0;
+
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+        sum+=temp;
+    }
+
+    cout<<"vector elements: ";
+    for(int i=0;i<v.size();i++)
+        cout<<v[i]<<" ";
+
+    cout<<endl;
+    cout<<"sum = "<<sum<<endl;
+    cout<<"size = "<<v.size()<<endl;
+
+    if(!v.empty())
+        v.pop_back();
+
+    cout<<"after pop_back: ";
+    for(int i=0;i<v.size();i++)
+        cout<<v[i]<<" ";
+
+    cout<<endl;
+
+    /// string part
+    string s;
+    cin>>s;
+
+    cout<<"length = "<<s.length()<<endl;
+
+    if(s.length()>=5)
+        cout<<"substring = "<<s.substr(3,2)<<endl;
+
+    if(s.length()>3)
+        cout<<"character = "<<s[3]<<endl;
+}
+========================================================================================
+
+[STL-11] Stack, Queue and Deque
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<stack>
+#include<queue>
+#include<deque>
+using namespace std;
+
+int main()
+{
+    /// stack: Last In First Out
+    stack<int>s;
+
+    s.push(15);
+    s.push(16);
+
+    cout<<"stack top = "<<s.top()<<endl;
+    s.pop();
+    cout<<"stack top after pop = "<<s.top()<<endl;
+
+    /// queue: First In First Out
+    queue<int>q;
+
+    q.push(15);
+    q.push(16);
+
+    cout<<"queue front = "<<q.front()<<endl;
+    q.pop();
+    cout<<"queue front after pop = "<<q.front()<<endl;
+
+    /// deque: insertion/removal from both sides
+    deque<int>dq;
+
+    dq.push_back(14);
+    dq.push_back(15);
+    dq.push_front(6);
+    dq.push_back(7);
+
+    cout<<"deque front = "<<dq.front()<<endl;
+    cout<<"deque back = "<<dq.back()<<endl;
+
+    dq.pop_back();
+    dq.pop_front();
+
+    cout<<"deque front after pop = "<<dq.front()<<endl;
+}
+========================================================================================
+
+[DNC-01] Merge Sort in Descending Order
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+void _merge_sort_descending(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(_end-start==1) /// size 2
+    {
+        if(v[start]<v[_end])
+        {
+            swap(v[start],v[_end]);
+        }
+        return;
+    }
+    else if(start==_end) /// size 1
+        return;
+
+    ///step-1: divide
+    int mid=(start+_end)/2;
+    _merge_sort_descending(start,mid); /// sort from start to mid
+    _merge_sort_descending(mid+1,_end);/// sort from mid+1 to end
+
+
+    ///step-3: merge
+    vector<int>l,r; /// l=v[start...mid], r=v[mid+1..._end]
+    for(int i=start;i<=mid;i++)
+        l.push_back(v[i]);
+    for(int i=mid+1;i<=_end;i++)
+        r.push_back(v[i]);
+
+    int i=0,j=0;
+    vector<int>new_array;
+
+    while(i<l.size() && j<r.size())
+    {
+        /// larger element will come first
+        if(l[i]>r[j])
+        {
+            new_array.push_back(l[i]);
+            i++;
+        }
+        else
+        {
+            new_array.push_back(r[j]);
+            j++;
+        }
+    }
+
+    while(i<l.size())
+    {
+        new_array.push_back(l[i]);
+        i++;
+    }
+
+    while(j<r.size())
+    {
+        new_array.push_back(r[j]);
+        j++;
+    }
+
+    /// copy new_array in our main vector v
+    int p=0;
+    for(int k=start;k<=_end;k++)
+    {
+        v[k]=new_array[p];
+        p++;
+    }
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>0)
+        _merge_sort_descending(0,n-1);
+
+    cout<<"after sorting in descending order-----------"<<endl;
+    for(int i=0;i<n;i++)
+        cout<<v[i]<<" ";
+}
+
+/// sample input
+/*
+9
+-5 -10 16 2 6 5 3 2 19
+*/
+
+/// sample output
+/*
+19 16 6 5 3 2 2 -5 -10
+*/
+========================================================================================
+
+[DNC-02] Three-Way Merge Sort
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+void _merge_sort_3_way(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(_end-start==1) /// size 2
+    {
+        if(v[start]>v[_end])
+        {
+            swap(v[start],v[_end]);
+        }
+        return;
+    }
+    else if(start==_end) /// size 1
+        return;
+
+    ///step-1: divide the array into 3 sections
+    int mid1=start+(_end-start)/3;
+    int mid2=start+2*(_end-start)/3;
+
+    _merge_sort_3_way(start,mid1);
+    _merge_sort_3_way(mid1+1,mid2);
+    _merge_sort_3_way(mid2+1,_end);
+
+
+    ///step-3: merge 3 sorted arrays
+    vector<int>l,m,r;
+
+    for(int i=start;i<=mid1;i++)
+        l.push_back(v[i]);
+    for(int i=mid1+1;i<=mid2;i++)
+        m.push_back(v[i]);
+    for(int i=mid2+1;i<=_end;i++)
+        r.push_back(v[i]);
+
+    int i=0,j=0,k=0;
+    vector<int>new_array;
+
+    /// all three pointers are inside the bounds
+    while(i<l.size() && j<m.size() && k<r.size())
+    {
+        if(l[i]<=m[j] && l[i]<=r[k])
+        {
+            new_array.push_back(l[i]);
+            i++;
+        }
+        else if(m[j]<=l[i] && m[j]<=r[k])
+        {
+            new_array.push_back(m[j]);
+            j++;
+        }
+        else
+        {
+            new_array.push_back(r[k]);
+            k++;
+        }
+    }
+
+    /// merge the two remaining arrays
+    while(i<l.size() && j<m.size())
+    {
+        if(l[i]<=m[j]) new_array.push_back(l[i++]);
+        else new_array.push_back(m[j++]);
+    }
+
+    while(i<l.size() && k<r.size())
+    {
+        if(l[i]<=r[k]) new_array.push_back(l[i++]);
+        else new_array.push_back(r[k++]);
+    }
+
+    while(j<m.size() && k<r.size())
+    {
+        if(m[j]<=r[k]) new_array.push_back(m[j++]);
+        else new_array.push_back(r[k++]);
+    }
+
+    /// copy the remaining elements
+    while(i<l.size()) new_array.push_back(l[i++]);
+    while(j<m.size()) new_array.push_back(m[j++]);
+    while(k<r.size()) new_array.push_back(r[k++]);
+
+    /// copy new_array in our main vector v
+    int p=0;
+    for(int index=start;index<=_end;index++)
+    {
+        v[index]=new_array[p];
+        p++;
+    }
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>0)
+        _merge_sort_3_way(0,n-1);
+
+    cout<<"after 3-way merge sorting-----------"<<endl;
+    for(int i=0;i<n;i++)
+        cout<<v[i]<<" ";
+}
+
+/// sample input
+/*
+10
+15 2 19 -5 7 3 3 20 1 8
+*/
+
+/// sample output
+/*
+-5 1 2 3 3 7 8 15 19 20
+*/
+========================================================================================
+
+[DNC-03] Sum of All Even Numbers
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+int even_sum(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(start==_end) /// size 1
+    {
+        if(v[start]%2==0)
+            return v[start];
+        else
+            return 0;
+    }
+
+    ///step-1: divide
+    int mid=(start+_end)/2;
+    int left_even_sum=even_sum(start,mid);
+    int right_even_sum=even_sum(mid+1,_end);
+
+
+    ///step-3: merge
+    int merged_even_sum=left_even_sum+right_even_sum;
+    return merged_even_sum;
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>0)
+        cout<<even_sum(0,n-1)<<endl;
+}
+
+/// sample input
+/*
+6
+5 8 3 12 7 10
+*/
+
+/// sample output
+/*
+30
+*/
+========================================================================================
+
+[DNC-04] Second Maximum Number
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+/// the pair will store (maximum, second maximum)
+pair<int,int> find_second_maximum(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(_end-start==1) /// size 2
+    {
+        if(v[start]>v[_end])
+            return make_pair(v[start],v[_end]);
+        else
+            return make_pair(v[_end],v[start]);
+    }
+    else if(start==_end) /// size 1
+    {
+        return make_pair(v[start],-100000000);
+    }
+
+    ///step-1: divide
+    int mid=(start+_end)/2;
+    pair<int,int>left_answer=find_second_maximum(start,mid);
+    pair<int,int>right_answer=find_second_maximum(mid+1,_end);
+
+
+    ///step-3: merge
+    /// candidates are max1, second_max1, max2, second_max2
+    vector<int>candidate;
+    candidate.push_back(left_answer.first);
+    candidate.push_back(left_answer.second);
+    candidate.push_back(right_answer.first);
+    candidate.push_back(right_answer.second);
+
+    int maximum=-100000000;
+    int second_maximum=-100000000;
+
+    for(int i=0;i<candidate.size();i++)
+    {
+        if(candidate[i]>maximum)
+        {
+            second_maximum=maximum;
+            maximum=candidate[i];
+        }
+        else if(candidate[i]>second_maximum)
+        {
+            second_maximum=candidate[i];
+        }
+    }
+
+    return make_pair(maximum,second_maximum);
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>=2)
+    {
+        pair<int,int>answer=find_second_maximum(0,n-1);
+        cout<<"maximum = "<<answer.first<<endl;
+        cout<<"second maximum = "<<answer.second<<endl;
+    }
+}
+
+/// sample input
+/*
+5
+7 2 9 4 6
+*/
+
+/// sample output
+/*
+maximum = 9
+second maximum = 7
+*/
+
+/// Note: duplicates are counted as separate occurrences.
+/// For 7 9 9, the maximum and second maximum are both 9.
+========================================================================================
+
+[DNC-05] Second Minimum Number
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+/// the pair will store (minimum, second minimum)
+pair<int,int> find_second_minimum(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(_end-start==1) /// size 2
+    {
+        if(v[start]<v[_end])
+            return make_pair(v[start],v[_end]);
+        else
+            return make_pair(v[_end],v[start]);
+    }
+    else if(start==_end) /// size 1
+    {
+        return make_pair(v[start],100000000);
+    }
+
+    ///step-1: divide
+    int mid=(start+_end)/2;
+    pair<int,int>left_answer=find_second_minimum(start,mid);
+    pair<int,int>right_answer=find_second_minimum(mid+1,_end);
+
+
+    ///step-3: merge
+    /// candidates are min1, second_min1, min2, second_min2
+    vector<int>candidate;
+    candidate.push_back(left_answer.first);
+    candidate.push_back(left_answer.second);
+    candidate.push_back(right_answer.first);
+    candidate.push_back(right_answer.second);
+
+    int minimum=100000000;
+    int second_minimum=100000000;
+
+    for(int i=0;i<candidate.size();i++)
+    {
+        if(candidate[i]<minimum)
+        {
+            second_minimum=minimum;
+            minimum=candidate[i];
+        }
+        else if(candidate[i]<second_minimum)
+        {
+            second_minimum=candidate[i];
+        }
+    }
+
+    return make_pair(minimum,second_minimum);
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>=2)
+    {
+        pair<int,int>answer=find_second_minimum(0,n-1);
+        cout<<"minimum = "<<answer.first<<endl;
+        cout<<"second minimum = "<<answer.second<<endl;
+    }
+}
+
+/// sample input
+/*
+5
+7 2 9 4 6
+*/
+
+/// sample output
+/*
+minimum = 2
+second minimum = 4
+*/
+
+/// Note: duplicates are counted as separate occurrences.
+/// For 2 2 9, the minimum and second minimum are both 2.
+========================================================================================
+
+[DNC-06] Calculate b^n Using Fast Power
+----------------------------------------------------------------------------------------
+#include<iostream>
+using namespace std;
+long long b;
+int n;
+
+long long calculate_power(int exponent)
+{
+    ///step-2: conquer (base condition)
+    if(exponent==0)
+        return 1;
+    else if(exponent==1)
+        return b;
+
+    ///step-1: divide
+    int half_exponent=exponent/2;
+    long long half_answer=calculate_power(half_exponent);
+
+
+    ///step-3: merge
+    long long answer=half_answer*half_answer;
+
+    /// if exponent is odd, multiply one extra b
+    if(exponent%2==1)
+        answer=answer*b;
+
+    return answer;
+}
+
+int main()
+{
+    cin>>b>>n;
+    cout<<calculate_power(n)<<endl;
+}
+
+/// sample input
+/*
+3 13
+*/
+
+/// sample output
+/*
+1594323
+*/
+
+/// Assumption: exponent n is non-negative and the answer fits in long long.
+========================================================================================
+
+[DNC-07] Count Multiples of 3 or 5
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+int count_multiple_3_or_5(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(start==_end) /// size 1
+    {
+        if(v[start]%3==0 || v[start]%5==0)
+            return 1;
+        else
+            return 0;
+    }
+
+    ///step-1: divide
+    int mid=(start+_end)/2;
+    int left_count=count_multiple_3_or_5(start,mid);
+    int right_count=count_multiple_3_or_5(mid+1,_end);
+
+
+    ///step-3: merge
+    int merged_count=left_count+right_count;
+    return merged_count;
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>0)
+        cout<<count_multiple_3_or_5(0,n-1)<<endl;
+}
+
+/// sample input
+/*
+7
+3 5 7 9 10 11 15
+*/
+
+/// sample output
+/*
+5
+*/
+
+/// 15 is counted only once because the condition uses OR.
+========================================================================================
+
+[DNC-08] Minimum-Sum Subarray
+----------------------------------------------------------------------------------------
+#include<iostream>
+#include<vector>
+using namespace std;
+int n;
+vector<int>v;
+
+int minsum_subarray(int start, int _end)
+{
+    ///step-2: conquer (base condition)
+    if(start==_end) /// size 1
+        return v[start];
+
+
+    ///step-1: divide
+    int mid=(start+_end)/2;
+    int leftmin=minsum_subarray(start,mid);
+    int rightmin=minsum_subarray(mid+1,_end);
+
+
+    ///step-3: merge
+
+    int lm=100000000; /// from mid -> start, tracker of minimum sum
+    int current_sum=0;
+
+    for(int i=mid;i>=start;i--)
+    {
+        current_sum+=v[i];
+        lm=min(lm,current_sum);
+    }
+
+    int rm=100000000; /// from mid+1 -> end, tracker of minimum sum
+    current_sum=0;
+
+    for(int i=mid+1;i<=_end;i++)
+    {
+        current_sum+=v[i];
+        rm=min(rm,current_sum);
+    }
+
+    int merged_min=lm+rm;
+    int ans=min(merged_min,min(leftmin,rightmin));
+
+    return ans;
+}
+
+int main()
+{
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(temp);
+    }
+
+    if(n>0)
+    {
+        int minsum=minsum_subarray(0,n-1);
+        cout<<minsum<<endl;
+    }
+}
+
+/// sample input from the PDF
+/*
+10
+3 -2 5 -4 6 -1 -2 3 -5 2
+*/
+
+/// sample output
+/*
+-5
+*/
+========================================================================================

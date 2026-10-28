@@ -1,0 +1,13 @@
+# Local outputs and editor settings
+build/
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
